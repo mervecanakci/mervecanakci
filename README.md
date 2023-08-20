@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mervecanakci&label=Profile%20views&color=0e75b6&style=flat" alt="mervecanakci" /> </p>
 
-- 🔭 I’m currently working on Java **Java**
+- 🔭 I’m currently working on  **Java**
 
-- 🌱 I’m currently learning React **React**
+- 🌱 I’m currently learning  **React**
 
 - 📫 How to reach me **mervecanakci9@gmail.com**
 
