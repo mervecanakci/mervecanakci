@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merve ÇANAKCI.</h1>
-<h3 >I am a Computer Engineering graduate.</h3>
+<h3 align="left">I am a Computer Engineering graduate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mervecanakci&label=Profile%20views&color=0e75b6&style=flat" alt="mervecanakci" /> </p>
 
